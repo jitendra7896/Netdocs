@@ -13,6 +13,7 @@ To run this software into your system you need to do following things:------
 	> urllib.request
 	> geopy
 	> geocoder
+	> Tk
 3. After installing the required libraries, you need to run the frontend.py file as----
 	> In windows, open cmd and run program as python frontend.py or simply run it into gui based editor like atom or in anaconda(spyder).
 	> In Linux, you donot need to install python because it is already built in. Howsoever, If it is not installed into the system you need to explicitly install into the system and run same (python frontend.py) command to execute the program.
